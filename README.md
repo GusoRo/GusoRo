@@ -19,7 +19,7 @@
 
 ```bash
 public static void main(String[] args) {
-    System.out.println("> \"Evoluindo um commit por vez...");
+    System.out.println("> \"Evoluindo...");
 }
 
 > sistema continua em execução...
